@@ -1,4 +1,4 @@
-🚀 # Discord Multitool 🎉
+🚀  Discord Multitool 🎉
 Ein Discord Multitool, das am 1. Juli veröffentlicht wird. Mit verschiedenen Features! 🎁
 
 Features
