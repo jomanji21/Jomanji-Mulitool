@@ -7,7 +7,7 @@ Features
 💥 Raid Tools
 🔄 Account Generator??!!
 and much more! 😉
-🔔 Join my Discord for the latest updates: Join Discord
+🔔 Join my Discord for the latest updates: https://discord.gg/CTxDR9pm28
 
 ⭐ Feel free to leave a star!
 
