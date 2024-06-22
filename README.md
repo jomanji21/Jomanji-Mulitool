@@ -1,2 +1,12 @@
-# Jomanji-Mulitool
-A Discord multitool that will be released on 1 July. With various features.   - Anti Captcha  -Own capsolver -Raid -Account Gen??!!  and much more ;) ...   Join my Discord for the latest updates.   Feel free to leave a star!
+#🚀 Discord Multitool 🎉
+Ein Discord Multitool, das am 1. Juli veröffentlicht wird. Mit verschiedenen Features! 🎁
+
+Features
+🛡️ Anti Captcha
+🧩 Eigenes Captcha-Lösungstool
+💥 Raid-Tools
+🔄 Account Generator??!!
+und vieles mehr! 😉
+🔔 Tritt meinem Discord bei für die neuesten Updates: Join Discord
+
+⭐ Gib gerne einen Stern!
