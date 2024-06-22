@@ -1,12 +1,15 @@
-🚀  Discord Multitool 🎉
-Ein Discord Multitool, das am 1. Juli veröffentlicht wird. Mit verschiedenen Features! 🎁
+🚀 Discord Multitool 🎉
+A Discord multitool that will be released on July 1st. Packed with various features! 🎁
 
 Features
 🛡️ Anti Captcha
-🧩 Eigenes Captcha-Lösungstool
-💥 Raid-Tools
+🧩 Own Captcha Solver
+💥 Raid Tools
 🔄 Account Generator??!!
-und vieles mehr! 😉
-🔔 Tritt meinem Discord bei für die neuesten Updates: Join Discord
+and much more! 😉
+🔔 Join my Discord for the latest updates: Join Discord
 
-⭐ Gib gerne einen Stern!
+⭐ Feel free to leave a star!
+
+#DiscordTool #AntiCaptcha #RaidTools #AccountGenerator #JoinDiscord #ComingSoon #TechTools #DiscordBots
+
